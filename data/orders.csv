@@ -1,0 +1,7 @@
+order_id,customer_id,order_date,status,amount
+O-100,C-01,2026-01-03,completed,120.50
+O-101,C-02,2026-01-04,pending,75.00
+O-102,,2026-01-05,completed,42.00
+O-103,C-04,not-a-date,shipped,18.00
+O-103,C-05,2026-01-07,refunded,-5.00
+O-105,C-06,2026-01-08,cancelled,0
